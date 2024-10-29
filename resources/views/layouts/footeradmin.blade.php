@@ -1,0 +1,1 @@
+<strong>Copyright &copy; 2024 <a href="">Ducati Motor Holding S.p.A.</a>.</strong>
